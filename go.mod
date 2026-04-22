@@ -1,6 +1,6 @@
 module github.com/smack0007/sdl3-go-template
 
-go 1.25.1
+go 1.26.2
 
 require (
 	github.com/smack0007/sdl3-go v0.0.0
